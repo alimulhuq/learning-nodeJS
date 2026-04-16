@@ -1,0 +1,24 @@
+{
+  "name": "learning-nodejs",
+  "version": "1.0.0",
+  "description": "learning Node js for Backend development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alimulhuq/learning-nodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/alimulhuq/learning-nodeJS/issues"
+  },
+  "homepage": "https://github.com/alimulhuq/learning-nodeJS#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
